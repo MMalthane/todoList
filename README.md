@@ -1,5 +1,5 @@
 ToDo List 
-Add Itesm
+Add Items
 Delete items
 Edit items
 CLear list
